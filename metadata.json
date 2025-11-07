@@ -1,0 +1,5 @@
+{
+  "name": "Photo Editor & Analyzer",
+  "description": "An application that allows users to edit images using text prompts with the Gemini 2.5 Flash Image model, and analyze images with Gemini 2.5 Flash. Users can upload a product photo and provide instructions like 'remove the background' to get a cleaned-up image, or ask questions about an image's content.",
+  "requestFramePermissions": []
+}
